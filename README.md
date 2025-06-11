@@ -85,7 +85,9 @@ Allow Java through firewall settings
 ### 🛠️ Technologies Used Java
 
 Java Swing (GUI)
+
 Java Sockets (Networking)
+
 Multithreading
 
 ## Structure
