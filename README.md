@@ -79,8 +79,8 @@ Allow Java through firewall settings
 ### 🌐 Serevr Connection
 ![ServerPORT](ServerPORT.png)
 
-### 🏁 Game Status
-![GameStatus](GameStatus.png)
+### 🏁 Connection Status
+![GameStatus](connectionStatus.png)
 
 ### 🛠️ Technologies Used Java
 
