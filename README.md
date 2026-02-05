@@ -76,7 +76,7 @@ Allow Java through firewall settings
 ### 🌐 Client Connecting to Server
 ![ServerIP](ServerIP.png)
 
-### 🌐 Serevr Connection
+### 🌐 Server Connection
 ![ServerPORT](ServerPORT.png)
 
 ### 🏁 Connection Status
